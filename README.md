@@ -22,6 +22,8 @@ opportunity** in a $8.1M digital marketing spend.
 
 ---
 
+![mkt](mkt.png) ![roi](roi.png) ![time](time.png) ![revtred](revtred.png)
+
 ## Skills Demonstrated
 
 | Skill            | Evidence                                              |
